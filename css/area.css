@@ -1,0 +1,7 @@
+.cd-container.cd-container--active {
+  visibility: visible;
+  opacity: 1;
+  -webkit-transition: opacity 250ms ease-out;
+  transition: opacity 250ms ease-out;
+  z-index: 90;
+}
